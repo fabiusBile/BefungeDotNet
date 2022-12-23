@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BefungeDotNet.Cli", "BefungeDotNet.Cli\BefungeDotNet.Cli.csproj", "{3650FB89-17B2-4C9A-A8DC-7A9BF8D4311B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BefungeDotNet.Core", "BefungeDotNet.Core\BefungeDotNet.Core.csproj", "{7CE9C927-163A-44A5-96FB-A034C4FAA1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BefungeDotNet.Tests", "BefungeDotNet.Tests\BefungeDotNet.Tests.csproj", "{59A4B6A4-C371-4FA4-9886-B4E8EFF1C5B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3650FB89-17B2-4C9A-A8DC-7A9BF8D4311B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3650FB89-17B2-4C9A-A8DC-7A9BF8D4311B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3650FB89-17B2-4C9A-A8DC-7A9BF8D4311B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3650FB89-17B2-4C9A-A8DC-7A9BF8D4311B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE9C927-163A-44A5-96FB-A034C4FAA1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE9C927-163A-44A5-96FB-A034C4FAA1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE9C927-163A-44A5-96FB-A034C4FAA1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE9C927-163A-44A5-96FB-A034C4FAA1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A4B6A4-C371-4FA4-9886-B4E8EFF1C5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A4B6A4-C371-4FA4-9886-B4E8EFF1C5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A4B6A4-C371-4FA4-9886-B4E8EFF1C5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A4B6A4-C371-4FA4-9886-B4E8EFF1C5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
